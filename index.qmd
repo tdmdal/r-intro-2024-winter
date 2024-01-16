@@ -28,14 +28,21 @@ An alternative to RStudio Cloud is the UofT JupyterHub/RStudio system. Go to its
     -   Country risk ([country_risk.xlsx](data/country_risk.xlsx))
 -   Code
     -   Get started (We will code this one together)
-    -   R basic data structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2023-fall/blob/master/docs/R_Basic_Data_Structures.ipynb))
-    -   R basic programming structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2023-fall/blob/master/docs/R_Basic_Programming_Structures.ipynb))
+    -   R basic data structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2024-winter/blob/master/docs/R_Basic_Data_Structures.ipynb))
+    -   R basic programming structures (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2024-winter/blob/master/docs/R_Basic_Programming_Structures.ipynb))
 -   Reading list
     -   [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) (Chapter 1 to 3; Chapter 4 to 7, 9 and 11; Appendix A, B and D)
 
 ### Session 2 Descriptive Statistics, T-test, and Linear Regression
 
--   *Coming soon*
+-   [Slides](r_intro_part2.pdf)
+    -   Descriptive statistics (mean, median, variance, etc.)
+    -   T-test (`t.test()`)
+    -   Linear regression (`lm()`, read/interpret regression results)
+- Code
+    -   T-test (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2024-winter/blob/master/docs/t_test.ipynb))
+    -   Linear Regression - Base R tooling (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2024-winter/blob/master/docs/Housing_Prices_LR_Analysis_(with_base_R).ipynb))
+    -   Linear Regression - Tidyverse & Others (Optional) (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2024-winter/blob/master/docs/Housing_Prices_Regression_Analysis_(with_Tidyverse_and_Others).ipynb))
 
 ### Session 3 K-means Clustering
 
