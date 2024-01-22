@@ -46,7 +46,9 @@ An alternative to RStudio Cloud is the UofT JupyterHub/RStudio system. Go to its
 
 ### Session 3 K-means Clustering
 
--   *Coming soon*
+-   [Slides](r_intro_part3.pdf)
+-   Code
+    -    K-means (R Notebook [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-intro-2024-winter/blob/master/docs/k_means.ipynb))
 
 ### Session 4 Logistic Regression
 
